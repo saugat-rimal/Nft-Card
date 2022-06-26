@@ -6,8 +6,8 @@ import view from "./images/icon-view.svg";
 
 export default function Nft() {
   return (
-    <div className="container mx-auto flex items-center justify-center">
-      <section className="flex max-w-xs bg-[#15273F] p-5 rounded-xl">
+    <div className="container mx-auto flex items-center justify-center ">
+      <section className="flex max-w-xs bg-[#15273F] p-5 rounded-xl mx-3">
         <div>
           <div className="relative group flex justify-center overflow-hidden cursor-pointer rounded-lg">
             <img
